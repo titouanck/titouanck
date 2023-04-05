@@ -1,6 +1,6 @@
 ### Student at 42 Paris, in the middle of the [common core](https://github.com/titouanck/42-cursus).
 
-💻 Since starting at 42, I've had the opportunity to work on a variety of programming projects that have helped me develop my skills and deepen my understanding of computer science, such as:
+💻  Since starting at 42, I've had the opportunity to work on a variety of programming projects that have helped me develop my computer science skills, particularly in C, such as:
 
 - [`Minishell`](https://github.com/titouanck/42-Minishell) → Built a program that replicates the functionality of the Bash shell, providing a command-line interface for system interaction.
 
