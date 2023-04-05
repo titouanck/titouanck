@@ -4,11 +4,11 @@
 
 - [`Minishell`](https://github.com/titouanck/42-Minishell) → Built a program that replicates the functionality of the Bash shell, providing a command-line interface for system interaction.
 
-- [`Philosophers`](https://github.com/titouanck/42-Philosophers) → implementing a solution through the Dining Philosophers problem, to avoid deadlocks in a multi-threading situation.
+- [`Philosophers`](https://github.com/titouanck/42-Philosophers) → Implementing a solution through the Dining Philosophers problem, to avoid deadlocks in a multi-threading situation.
 
 - [`FdF`](https://github.com/titouanck/42-FdF) → Developed a program to create a wireframe representation of a 3D landscape.
 
-- [`push_swap`](https://github.com/titouanck/42-push_swap) → Created a sorting algorithm programusing various sorting techniques to order stacks of integers.
+- [`push_swap`](https://github.com/titouanck/42-push_swap) → Created a sorting algorithm program using various sorting techniques to order stacks of integers.
 
 
 Overall, I'm really enjoying my experience at 42 :)
