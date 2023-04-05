@@ -13,6 +13,6 @@
 
 Overall, I'm really enjoying my experience at 42 :)
 
-In parallel, I am currently developing my web development skills with the aim of offering my web development services by the end of this year.
+In parallel, I am currently improving my web development skills with the aim of offering my web development services by the end of this year.
 
 You can reach me by email at **chevrier.titouan@gmail.com**
