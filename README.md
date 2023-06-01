@@ -13,6 +13,6 @@
 
 Overall, I'm really enjoying my experience at 42 :)
 
-In parallel, I am currently improving my web development skills with the aim of offering my web development services by the end of this year.
+In the near future, I would like to improve my web development skills with the aim of offering my web development services by the end of the year.
 
-You can reach me by email at **chevrier.titouan@gmail.com**
+You can reach me by email at **tchevrie@student.42.fr**
