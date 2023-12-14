@@ -10,9 +10,4 @@
 
 - [`push_swap`](https://github.com/titouanck/42-push_swap) → Created a sorting algorithm program using various sorting techniques to order stacks of integers.
 
-
-Overall, I'm really enjoying my experience at 42 :)
-
-In the near future, I would like to improve my web development skills with the aim of offering my web development services by the end of the year.
-
 You can reach me by email at **chevrier.titouan@gmail.com**
