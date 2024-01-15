@@ -37,5 +37,3 @@
   -  [CPP Module 09](https://github.com/titouanck/42-CPP_Modules/tree/main/CPP_09) : 100
 
 ![Holygraph](https://github.com/titouanck/42-cursus/assets/87268044/06fc4b00-ba4f-4b83-af3a-07824c2e9fcb)
-
-[README.md](README.md)
