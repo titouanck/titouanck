@@ -18,8 +18,8 @@
 - [Philosophers](https://github.com/titouanck/42-Philosophers) : 100/100
 
 ### Fifth cycle
-- [NetPractice](https://cdn.intra.42.fr/pdf/pdf/79776/en.subject.pdf) : 100/100
-- [Cub3D](https://github.com/Victordeleusse/Ecole-42-Cub3D) : 115/100
+- [NetPractice]([https://cdn.intra.42.fr/pdf/pdf/79776/en.subject.pdf](https://github.com/titouanck/titouanck/blob/main/42-cursus.md)) : 100/100
+- [Cub3D]([https://github.com/Victordeleusse/Ecole-42-Cub3D](https://github.com/titouanck/titouanck/blob/main/42-cursus.md)) : 115/100
 - [Modules C++](https://github.com/titouanck/42-CPP_Modules)
   -  [CPP Module 00](https://github.com/titouanck/42-CPP_Modules/tree/main/CPP_00) : 100
   -  [CPP Module 01](https://github.com/titouanck/42-CPP_Modules/tree/main/CPP_01) : 95
