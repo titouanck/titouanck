@@ -1,4 +1,4 @@
-### Student at 42 Paris, finishing the [common core of the cursus ](https://github.com/titouanck/titouanck/42-cursus.md).
+### Student at 42 Paris, finishing the [common core of the cursus ](https://github.com/titouanck/titouanck/blob/main/42-cursus.md).
 
 Since starting at 42, I've had the opportunity to work on a variety of programming projects that have helped me develop my computer science skills.  
   
