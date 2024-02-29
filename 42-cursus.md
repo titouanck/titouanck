@@ -35,5 +35,4 @@
   -  [CPP Module 07](https://github.com/titouanck/42-CPP_Modules/tree/main/CPP_07) : 100
   -  [CPP Module 08](https://github.com/titouanck/42-CPP_Modules/tree/main/CPP_08) : 100
   -  [CPP Module 09](https://github.com/titouanck/42-CPP_Modules/tree/main/CPP_09) : 100
-
-![Holygraph](https://github.com/titouanck/titouanck/assets/87268044/878f7ce0-31f3-4529-a5eb-27d815ce7b6b)
+- [ft_irc](https://github.com/titouanck/42-ft_irc) : 115/100
